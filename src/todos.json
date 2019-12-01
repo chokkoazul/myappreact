@@ -1,0 +1,42 @@
+{
+"todos" : [
+{
+    "title": "task 1",
+    "responsible": "cosorio",
+    "description": "lerena",
+    "priority": "low"
+},
+{
+    "title": "task 2",
+    "responsible": "fcaldero",
+    "description": "leasas",
+    "priority": "medium"
+},
+{
+    "title": "task 3",
+    "responsible": "labarca",
+    "description": "lerena",
+    "priority": "high"
+},
+{
+    "title": "task 4",
+    "responsible": "labarca",
+    "description": "lerena",
+    "priority": "high"
+},
+{
+    "title": "task 5",
+    "responsible": "labarca",
+    "description": "lerena",
+    "priority": "high"
+}
+,
+{
+    "title": "task 6",
+    "responsible": "labarca",
+    "description": "lerena",
+    "priority": "high"
+}
+]
+
+}
